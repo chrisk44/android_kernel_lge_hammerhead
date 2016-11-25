@@ -1,0 +1,11 @@
+--- CREDITS	Mon Apr 12 20:35:29 2004
++++ CREDITS	Mon Apr 12 20:35:29 2004
+@@ -2267,7 +2276,7 @@
+ S: Germany
+ 
+ N: Thomas Molina
+-E: tmolina@cox.net
++E: tmolina@cablespeed.com
+ D: bug fixes, documentation, minor hackery
+ 
+ N: James Morris

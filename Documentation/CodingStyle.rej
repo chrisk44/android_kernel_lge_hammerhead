@@ -1,0 +1,11 @@
+--- Documentation/CodingStyle	Mon Apr 12 20:35:28 2004
++++ Documentation/CodingStyle	Mon Apr 12 20:35:28 2004
+@@ -254,6 +254,8 @@
+   (interactive)
+   (c-mode)
+   (c-set-style "K&R")
++  (setq tab-width 8)
++  (setq indent-tabs-mode t)
+   (setq c-basic-offset 8))
+ 
+ This will define the M-x linux-c-mode command.  When hacking on a
